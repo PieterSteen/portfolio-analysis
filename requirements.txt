@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+streamlit
+geopandas
+statsmodels
+scikit-learn
+openpyxl
+matplotlib
